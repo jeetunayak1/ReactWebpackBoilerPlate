@@ -12,7 +12,7 @@ It uses webpack merge to modularize the webpack.
 It has navigation and routing whihc are readyto use.
 This project uses Functional components which is as of today(April 2020) Recomended way to do React programming.
 
-#First Run below command to install dependencies
+Run below command to install dependencies
 
 npm install
 
