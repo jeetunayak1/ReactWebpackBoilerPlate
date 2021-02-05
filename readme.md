@@ -1,4 +1,4 @@
-This is a boiler plate for anyone who wants to start react and webpack development from scratch. 
+This is a boiler plate for anyone who wants to start react and webpack development from scratch..
 
 We have included two different webpacks
 
