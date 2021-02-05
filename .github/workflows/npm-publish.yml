@@ -4,9 +4,8 @@
 name: Node.js Package
 
 on:
-  release:
-    types: [pull_request]
-
+  pull_request
+  
 jobs:
   build:
     runs-on: ubuntu-latest
